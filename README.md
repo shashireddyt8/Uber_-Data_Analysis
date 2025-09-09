@@ -96,3 +96,18 @@ To provide an **interactive analytics platform** to:
 ---
 
 ✅ **Outcome**: The Uber Trip Analysis Dashboard provided a **unified decision-making tool**, enabling Uber to improve **pricing strategies, demand forecasting, and customer satisfaction**, while also empowering teams with self-service analytics.    
+
+# 🚖 Uber Trip Analysis Dashboard: Booking, Revenue & Trip Efficiency Insights  
+
+...
+
+## 📊 Dashboard Screenshots  
+
+### 1. Overview Analysis  
+![Overview Analysis](images/Overview_Analysis.png)  
+
+### 2. Time Analysis Dashboard  
+![Time Analysis Dashboard](images/TimeAnalysis_Dashboard.png)  
+
+### 3. Detail Dashboard  
+![Detail Dashboard](images/Detail_Dashboard.png)  
